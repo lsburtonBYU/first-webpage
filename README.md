@@ -1,3 +1,3 @@
 # first-webpage
 
-View the live site at https://lsburtonbyu.github.io/first-webpage/
+Sample website to accompany first website (on Github) video
